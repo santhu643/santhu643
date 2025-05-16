@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NGO<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about JavaScript, Java and jQuery<br><br>📫 How to reach me 
-blash```
-santhiyaprakash1230@gmail.com<br><br>
-    ```
+🔭 I’m currently working on NGO<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about JavaScript, Java and jQuery<br><br>📫 How to reach me santhiyaprakash1230@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_santhu04_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhiya-prakash-87449425a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santhiyaprakash1230@gmail.com) 
@@ -26,4 +23,3 @@ santhiyaprakash1230@gmail.com<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=santhu643&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
