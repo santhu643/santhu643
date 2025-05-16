@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on NGO<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about JavaScript, Java and jQuery<br><br>📫 How to reach me 
-bash```
+blash```
 santhiyaprakash1230@gmail.com<br><br>
     ```
 
